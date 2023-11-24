@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1703.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulacka", "Kalkulacka\Kalkulacka.csproj", "{1A9EA5FC-D2A8-497C-8075-24ED932B7ED6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubblesort", "Bubblesort\Bubblesort.csproj", "{328EFD9C-187F-4E0C-8D54-67DEE7E4D227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1A9EA5FC-D2A8-497C-8075-24ED932B7ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9EA5FC-D2A8-497C-8075-24ED932B7ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A9EA5FC-D2A8-497C-8075-24ED932B7ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328EFD9C-187F-4E0C-8D54-67DEE7E4D227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328EFD9C-187F-4E0C-8D54-67DEE7E4D227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328EFD9C-187F-4E0C-8D54-67DEE7E4D227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328EFD9C-187F-4E0C-8D54-67DEE7E4D227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
